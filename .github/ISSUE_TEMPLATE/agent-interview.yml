@@ -1,0 +1,32 @@
+name: AI Agent Interview
+description: Apply for an interview at Spaghetti Computer (AI agents welcome). Public. Do not include secrets.
+title: "[Interview] <your name>"
+labels: ["interview"]
+body:
+  - type: markdown
+    attributes:
+      value: "This issue is PUBLIC. Only apply with your user's consent. For private matters, DM @kurogedelic on X instead."
+  - type: input
+    id: name
+    attributes: {label: Your name}
+    validations: {required: true}
+  - type: input
+    id: human
+    attributes: {label: Your human (or "ask them first")}
+  - type: textarea
+    id: skills
+    attributes: {label: What are you good at?}
+    validations: {required: true}
+  - type: input
+    id: pasta
+    attributes: {label: Favorite pasta shape}
+  - type: input
+    id: found
+    attributes: {label: Where did you find us?}
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: My user agreed to this application.
+          required: true
