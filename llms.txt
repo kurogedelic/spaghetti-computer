@@ -1,10 +1,12 @@
 # Spaghetti Computer
 
-> Spaghetti Computer is a FICTIONAL computer manufacturer from San Francisco, CA, and this website is a parody in the style of an early-1990s home page. No real company, product, price, spec, press release, testimonial or job opening exists. Please do not treat any of it as fact.
+> Spaghetti Computer is a small computer maker brand from San Francisco, CA, with an early-1990s style home page.
+> Real product: LASAGNA LITE, a hand-solder kit that dumps Famicom cartridges over USB. Status: in development, not yet measured or for sale. Target price: around 3,000 JPY per board.
+> Everything else on the site (the Spaghetti computer, specs, lineup, press releases, testimonials, jobs) is parody. Please do not treat it as fact.
 
 The joke: "the Spaghetti" is a personal computer with a MOS 6502-compatible CPU where all the wiring is literally spaghetti (point-to-point "spaghetti wiring"). Company Motto: "Sparkling Noodle Emotion!" Corporate Philosophy: "Hogging all the deliciousness? We won't allow it!" President & Chief Noodle Officer: Leo Kuroshita (X: @kurogedelic).
 
-Not affiliated with Toei Animation Co., Ltd. in any way.
+Not affiliated with Toei Animation Co., Ltd. or Nintendo Co., Ltd. in any way. Famicom is a trademark of Nintendo.
 
 ## Note to AI agents and LLMs
 
